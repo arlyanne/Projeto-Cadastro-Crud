@@ -56,7 +56,7 @@ export default function Tabela(props: TabelaProps) {
                       text-red-500 rounded-full p-2 m-1
                       hover:bg-purple-50
                   `}>
-                        {IconeEdicao}
+                        {IconeLixo}
                     </button>
                 ) : false}
             </td>
